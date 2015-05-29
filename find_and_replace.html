@@ -9,7 +9,24 @@
   </head>
   <body>
     <div class="container">
-
+      <form id="word-replacement">
+        <p>
+          <label for="sentence">Enter Message:</label>
+          <input id="sentence" name="sentence" type="text">
+        </p>
+        <p>
+          <label for="newWord">Enter a word to insert:</label>
+          <input id="newWord" name="newWord" type="text">
+        </p>
+        <p>
+          <label for="oldWord">Enter a word to remove:</label>
+          <input id="oldWord" name="oldWord" type="text">
+        </p>
+        <button class="btn btn-succes">Submit</button>
+      </form>
+      <div>
+        <h2>Result: <span id="result"></span></h2>
+      </div>
     </div>
   </body>
 </html>

@@ -15,7 +15,7 @@ describe("wordReplace", function() {
     expect(wordReplace("Hello world, hello world!", "world", "universe")).to.equal("Hello universe, hello universe!");
   });
 
-  // it("replaces capitalized words", function () {
-  //   expect(wordReplace("Hello World!", "world", "universe")).to.equal("Hello universe!");
-  // });
+  it("distinguishes between lower and upper case letters in words", function () {
+    expect(wordReplace("Hello WoRld!", "world", "universe")).to.not.equal("Hello universe!");
+  });
 });
