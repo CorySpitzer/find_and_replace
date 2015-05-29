@@ -1,5 +1,8 @@
 Cory Spitzer
-May 2015
+May 29th, 2015
+
+To run this website, download the project directory and point your browser to
+find_replace.html
 
 This project is in response to:<a href="https://www.learnhowtoprogram.com/lessons/javascript-bdd-code-review">js-bdd-code-review</a>
 
@@ -20,9 +23,15 @@ This project is in response to:<a href="https://www.learnhowtoprogram.com/lesson
   Your code will be reviewed for the following objectives:
 
   Complete spec coverage
-  *All specs are passing (indicating that your Javascript function(s) are
-  working as designed if you have thorough specs in place)
-  *Logic is easy to understand
-  *Variable names are descriptive and use lower camel case (likeThis)
-  *Code has proper indentation and spacing
-  Grade yourself before you submit!
+  * All specs are passing (indicating that your Javascript function(s) are
+  working as designed if you have thorough specs in place):
+  ** Specs are reasonably thorough and all pass
+  * Logic is easy to understand:
+  ** Everything in the code is straight forward
+  * Variable names are descriptive and use lower camel case (likeThis):
+  ** I believe so
+  * Code has proper indentation and spacing
+  ** I believe so
+
+  * Grade yourself before you submit!
+  ** It looks like I passed all the objectives stated
