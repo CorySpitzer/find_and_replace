@@ -11,9 +11,9 @@ $(document).ready(function() {
     var sentence = $("input#sentence").val();
     var oldWord = $("input#oldWord").val();
     var newWord = $("input#newWord").val();
-    var result = wordReplace(sentence, oldWord, newWord);
+    var newSentence = wordReplace(sentence, oldWord, newWord);
 
-    $("span#result").text(result);
+    $("span#result").text(newSentence);
     $("span#result").show();
     // alert(wordReplace(sentence, oldWord, newWord));
     event.preventDefault();
