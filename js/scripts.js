@@ -1,8 +1,5 @@
 var wordReplace = function(sentence, oldWord, newWord) {
-  // from StackOverflow: tinyurl.com/nqoh5s3
-  // var pattern = oldWord, re = new RegExp(pattern, "g");
-
-  // var wordToReplaceRegEx = new RegExp(wordToReplace, "g");
-
-  return sentence.replace(oldWord, newWord)
+  // from StackOverflow: tinyurl.com/oo5rxom
+  var oldWordRegEx = new RegExp(oldWord, 'g');
+  return sentence.replace(oldWordRegEx, newWord);
 };
