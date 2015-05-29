@@ -2,27 +2,14 @@ Cory Spitzer
 
 May 29th, 2015
 
+A simple JavaScript web app that allows a user to replace instances of one part of a string with another substring.
+
 **Setup Instructions:**
+
 To run this website, download the project directory and point your browser to
 find_replace.html
 
 This project is in response to: <a href="https://www.learnhowtoprogram.com/lessons/javascript-bdd-code-review">js-bdd-code-review</a>
-
-JavaScript BDD Code Review
-Find and Replace
-
-Create a website where a user enters a string, chooses a word to find and
-provides a replacement for that word.
-
-Sample input: "Hello world"
-
-Find string: "world"
-
-Replace string: "universe"
-
-Output: "Hello universe"
-
-Your code will be reviewed for the following objectives:
 
 * Complete spec coverage:
  * Specs are reasonably thorough
@@ -37,3 +24,5 @@ Your code will be reviewed for the following objectives:
 
 * Grade yourself before you submit!
   * It looks like I passed all the objectives stated
+ 
+MIT License
