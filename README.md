@@ -6,7 +6,8 @@ This project is in response to:<a href="https://www.learnhowtoprogram.com/lesson
   JavaScript BDD Code Review
   Find and Replace
 
-  Create a website where a user enters a string, chooses a word to find and provides a replacement for that word.
+  Create a website where a user enters a string, chooses a word to find and
+  provides a replacement for that word.
 
   Sample input: "Hello world"
 
@@ -19,8 +20,9 @@ This project is in response to:<a href="https://www.learnhowtoprogram.com/lesson
   Your code will be reviewed for the following objectives:
 
   Complete spec coverage
-  All specs are passing (indicating that your Javascript function(s) are working as designed if you have thorough specs in place)
-  Logic is easy to understand
-  Variable names are descriptive and use lower camel case (likeThis)
-  Code has proper indentation and spacing
+  *All specs are passing (indicating that your Javascript function(s) are
+  working as designed if you have thorough specs in place)
+  *Logic is easy to understand
+  *Variable names are descriptive and use lower camel case (likeThis)
+  *Code has proper indentation and spacing
   Grade yourself before you submit!
