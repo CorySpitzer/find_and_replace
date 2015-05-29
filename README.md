@@ -24,10 +24,10 @@ Output: "Hello universe"
 
 Your code will be reviewed for the following objectives:
 
-**Complete spec coverage:**
-
+* Complete spec coverage:
+ * Specs are reasonably thorough
 * All specs are passing (indicating that your Javascript function(s) are working as designed if you have thorough specs in place):
-  * Specs are reasonably thorough and all pass
+  * Check
 * Logic is easy to understand:
   * Everything in the code is straight forward
 * Variable names are descriptive and use lower camel case (likeThis):
